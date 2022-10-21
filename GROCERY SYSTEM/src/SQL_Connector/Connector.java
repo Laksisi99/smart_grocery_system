@@ -16,7 +16,7 @@ public class Connector
         
         String user_name = "root";
         
-        String password = "root";
+        String password = "";
         
         String db_name = "grocery_shop";
 
